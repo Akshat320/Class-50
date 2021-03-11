@@ -1,0 +1,45 @@
+ h1{
+  color:rgb(231, 26, 26);
+
+}
+p{
+  color:rgb(19, 155, 7); 
+
+  }
+  h4{
+    color: rgb(255, 0, 0);
+
+    }
+    h3{
+  color:rgb(40, 26, 231);
+ 
+
+}
+h2{
+  color:rgb(26, 115, 231)
+ 
+}
+/*{
+    border: solid;
+}
+*/
+.header{
+  background-color:aquamarine;
+  display: flex;
+  justify-content: space-between;
+}
+.grid{
+    display:flex;
+    flex-direction:column;
+    justify-content:space-between;
+}
+
+
+.footer{
+    display:flex;
+    justify-content: flex-end;
+}
+
+p,h2,h4,h3{
+    text-align:center;
+}
